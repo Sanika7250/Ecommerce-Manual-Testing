@@ -5,13 +5,13 @@
 | **Bug ID** | BUG-001 |
 | **Title** | Short, clear summary of the issue |
 | **Module** | Login / Product / Cart / Checkout |
-| **Reported By** | Your Name |
-| **Date Reported** | YYYY-MM-DD |
+| **Reported By** | Sanika Bodhale |
+| **Date Reported** | 2026-10-14 |
 | **Build / Version** | v1.0.0 |
 | **Environment** | Staging · Windows 11 · Chrome 120 |
 | **Severity** | Critical / High / Medium / Low |
 | **Priority** | P1 / P2 / P3 / P4 |
-| **Status** | New / Assigned / In Progress / Fixed / Retest / Closed / Reopened |
+| **Status** | New |
 | **Assigned To** | Developer name |
 | **Related Test Case** | e.g. CHK-007 |
 
