@@ -1,20 +1,4 @@
-# E-Commerce Website – Login Test Cases
-
-**Project:** Ecommerce Manual Testing  
-**Module:** Login  
-**Tester:** Sanika Bodhale
-
-| Test Case ID | Test Scenario | Test Steps | Expected Result |
-|---|---|---|---|
-| TC_LOGIN_001 | Login with valid credentials | Enter valid username and password; click Login | User should log in successfully |
-| TC_LOGIN_002 | Login with invalid password | Enter valid username and incorrect password | Error message should be displayed |
-| TC_LOGIN_003 | Login with invalid username | Enter an unregistered username and password | Login should fail with an appropriate error |
-| TC_LOGIN_004 | Login with empty fields | Leave username and password blank; click Login | Required-field validation should appear |
-| TC_LOGIN_005 | Login with empty password | Enter username and leave password blank | Password validation should appear |
-| TC_LOGIN_006 | Password masking | Enter a password in the password field | Password should be masked |
-| TC_LOGIN_007 | Logout | Log in and click Logout | User should be logged out successfully |
-| TC_LOGIN_008 | Verify login page | Open the login page | Username, password, and Login controls should be visible |
-
-**Status:** Not Executed
-
-**Note:** Update actual results and Pass/Fail status when you execute each test case.
+TC_LOGIN_009: Verify login with a locked user account
+Test Steps: Enter a locked user's credentials and click Login.
+Expected Result: Login should be denied with an appropriate message.
+Status: Not Executed
