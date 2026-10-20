@@ -4,11 +4,11 @@
 |---|---|
 | Project | Ecommerce Web Application |
 | Version | 1.0 |
-| Prepared by | Your Name |
-| Date | YYYY-MM-DD |
+| Prepared by | Sanika Bodhale |
+| Date | 2026-10-12|
 
 ## 1. Introduction
-This document describes the approach for manually testing the Login, Product and Checkout features of the e-commerce application.
+manually testing the Login, Product and Checkout features of the e-commerce application.
 
 ## 2. Objectives
 - Verify the application meets functional requirements.
